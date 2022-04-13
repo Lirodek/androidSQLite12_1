@@ -1,0 +1,1 @@
+# androidSQLite12_1
